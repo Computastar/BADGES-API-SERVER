@@ -1,6 +1,14 @@
 {
     "licenses": [
     {
+    "key": "None",
+    "name": "None",
+    "spdx_id": "None",
+    "url": "",
+    "node_id": "None",
+    "badge" : ""
+    },
+    {
     "key": "agpl-3.0",
     "name": "GNU Affero General Public License v3.0",
     "spdx_id": "AGPL-3.0",
