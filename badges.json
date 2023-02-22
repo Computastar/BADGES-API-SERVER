@@ -1,0 +1,108 @@
+{
+    "licenses": [
+    {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE=",
+    "badge" : "[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)"
+    },
+    {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI=",
+    "badge" : "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+    },
+    {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ=",
+    "badge" : "[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)"
+    },
+    {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU=",
+    "badge" : "[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)"
+    },
+    {
+    "key": "bsl-1.0",
+    "name": "Boost Software License 1.0",
+    "spdx_id": "BSL-1.0",
+    "url": "https://api.github.com/licenses/bsl-1.0",
+    "node_id": "MDc6TGljZW5zZTI4",
+    "badge" : "[![License](https://img.shields.io/badge/License-Boost_Software_License_1.0-blue.svg)](https://www.boost.org/users/license.html)"
+    },
+    {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY=",
+    "badge" : "[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)"
+    },
+    {
+    "key": "epl-2.0",
+    "name": "Eclipse Public License 2.0",
+    "spdx_id": "EPL-2.0",
+    "url": "https://api.github.com/licenses/epl-2.0",
+    "node_id": "MDc6TGljZW5zZTMy",
+    "badge" : "[![License](https://img.shields.io/badge/License-EPL_2.0-red.svg)](https://opensource.org/licenses/EPL-2.0)"
+    },
+    {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg=",
+    "badge" : "[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)"
+    },
+    {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk=",
+    "badge" : "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)"
+    },
+    {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx",
+    "badge" : "[![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL_2.1-red.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1)"
+    },
+    {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz",
+    "badge" : "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
+    },
+    {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0",
+    "badge" : "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)"
+    },
+    {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1",
+    "badge" : "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)"
+    }
+    ]
+}
